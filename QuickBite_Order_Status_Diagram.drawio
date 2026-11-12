@@ -1,0 +1,46 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="uInGYWiwNr0o2XIu5U4d">
+    <mxGraphModel dx="1018" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EY4a2upoYGaLN4pL61Zw-7" edge="1" parent="1" source="EY4a2upoYGaLN4pL61Zw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="EY4a2upoYGaLN4pL61Zw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EY4a2upoYGaLN4pL61Zw-8" edge="1" parent="1" source="EY4a2upoYGaLN4pL61Zw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="EY4a2upoYGaLN4pL61Zw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EY4a2upoYGaLN4pL61Zw-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="PENDING&lt;div&gt;Chờ xác nhận&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EY4a2upoYGaLN4pL61Zw-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="CANCELLED&lt;div&gt;Đã hủy&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EY4a2upoYGaLN4pL61Zw-9" edge="1" parent="1" source="EY4a2upoYGaLN4pL61Zw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.587;entryY=-0.06;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="EY4a2upoYGaLN4pL61Zw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EY4a2upoYGaLN4pL61Zw-10" edge="1" parent="1" source="EY4a2upoYGaLN4pL61Zw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="EY4a2upoYGaLN4pL61Zw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EY4a2upoYGaLN4pL61Zw-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="CONFIRMED&lt;div&gt;Đã xác nhận&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="EY4a2upoYGaLN4pL61Zw-11" edge="1" parent="1" source="EY4a2upoYGaLN4pL61Zw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="EY4a2upoYGaLN4pL61Zw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EY4a2upoYGaLN4pL61Zw-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="PREPARING&lt;div&gt;Đang chuẩn bị&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EY4a2upoYGaLN4pL61Zw-12" edge="1" parent="1" source="EY4a2upoYGaLN4pL61Zw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="EY4a2upoYGaLN4pL61Zw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EY4a2upoYGaLN4pL61Zw-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="SHIPPING&lt;div&gt;Đang giao&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="EY4a2upoYGaLN4pL61Zw-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="DELIVERED&lt;div&gt;Đã giao&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
